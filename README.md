@@ -1,101 +1,77 @@
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
-Desafio Proposto pela DIO
+# Desafio Proposto pela DIO
 
-Este repositório foi criado para documentar e compartilhar o desafio proposto pela Digital Innovation One. O objetivo foi desenvolver um site simples para uma clínica médica utilizando apenas HTML, aplicando os conceitos apresentados no módulo de desenvolvimento web.
+Este repositório foi criado para documentar e compartilhar o desafio proposto pela [Digital Innovation One](https://www.dio.me/). O objetivo foi desenvolver um site simples para uma clínica médica utilizando apenas HTML, aplicando os conceitos apresentados no módulo de desenvolvimento web.
 
-🌐 Projeto
+## 🌐 Projeto
 
-A aplicação criada é um site da Clínica Vida Saudável, especializada em:
+A aplicação criada é um site da **Clínica Vida Saudável**, especializada em:
 
-Clínica Geral
-
-Psicologia
-
-Pediatria
-
-Oftalmologia
+- Clínica Geral
+- Psicologia
+- Pediatria
+- Oftalmologia
 
 O site foi dividido em quatro páginas principais:
 
-Estrutura das Páginas
+### Estrutura das Páginas
 
-Página Principal
+1. **Página Principal**
+   - **Header**: Imagem representando saúde e bem-estar.
+   - **Content**: Breve descrição sobre a clínica com informações sobre missão, visão e especialidades.
+   - **Footer**: Contato da clínica com telefone e endereço.
 
-Header: Imagem representando saúde e bem-estar.
+2. **Sobre a Clínica**
+   - **Header**: Imagem da equipe médica.
+   - **Content**: Detalhes sobre a história e os profissionais da clínica.
 
-Content: Breve descrição sobre a clínica com informações sobre missão, visão e especialidades.
+3. **Horário de Atendimento**
+   - **Header**: Imagem relacionada aos serviços médicos.
+   - **Content**: Tabela de horários e serviços, incluindo:
+     ```
+     Serviços        Segunda a Sexta    Sábados        Feriados
+     Clínica geral   08h - 19h          08h - 14h      08h - 14h
+     Psicologia      08h - 19h          08h - 14h      08h - 14h
+     Pediatria       08h - 19h          08h - 18h      -
+     Oftalmologia    08h - 19h          08h - 18h      -
+     ```
 
-Footer: Contato da clínica com telefone e endereço.
+4. **Contato**
+   - **Header**: Imagem representando comunicação.
+   - **Content**:
+     - Telefones: (11) 99999-9999 e WhatsApp: (11) 98888-8888.
+     - Endereço: Rua Saúde, 123 - São Paulo, SP.
+     - Iframe do Google Maps com a localização.
+     - Formulário com campos para Nome, E-mail, Assunto e Mensagem, além de botões de "Enviar" e "Limpar".
 
-Sobre a Clínica
+## 🚀 Tecnologias Utilizadas
 
-Header: Imagem da equipe médica.
+- **HTML**: Para estruturação do site.
 
-Content: Detalhes sobre a história e os profissionais da clínica.
+> **Nota**: O desafio solicitava não utilizar CSS, focando apenas no conteúdo semântico e na organização.
 
-Horário de Atendimento
-
-Header: Imagem relacionada aos serviços médicos.
-
-Content: Tabela de horários e serviços, incluindo:
-
-Serviços        Segunda a Sexta    Sábados        Feriados
-Clínica geral   08h - 19h          08h - 14h      08h - 14h
-Psicologia      08h - 19h          08h - 14h      08h - 14h
-Pediatria       08h - 19h          08h - 18h      -
-Oftalmologia    08h - 19h          08h - 18h      -
-
-Contato
-
-Header: Imagem representando comunicação.
-
-Content:
-
-Telefones: (11) 99999-9999 e WhatsApp: (11) 98888-8888.
-
-Endereço: Rua Saúde, 123 - São Paulo, SP.
-
-Iframe do Google Maps com a localização.
-
-Formulário com campos para Nome, E-mail, Assunto e Mensagem, além de botões de "Enviar" e "Limpar".
-
-🚀 Tecnologias Utilizadas
-
-HTML: Para estruturação do site.
-
-Nota: O desafio solicitava não utilizar CSS, focando apenas no conteúdo semântico e na organização.
-
-🥇 Aprendizados
+## 🏆 Aprendizados
 
 Durante o desafio, pratiquei:
 
-Criação de páginas HTML bem estruturadas.
+- Criação de páginas HTML bem estruturadas.
+- Utilização de tabelas para organização de dados.
+- Implementação de iframes para mapas.
+- Criação de formulários simples com validação básica.
 
-Utilização de tabelas para organização de dados.
+## 🔧 Como Executar o Projeto
 
-Implementação de iframes para mapas.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/FernandaAlvesSilva/trilha-html-modulo-2.git
 
-Criação de formulários simples com validação básica.
-
-🔧 Como Executar o Projeto
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-Navegue até o diretório do projeto:
-
-cd seu-repositorio
-
-Abra o arquivo index.html em um navegador web.
-
-🔐 Conclusão
-
+   ##🔒 Conclusão
 Este projeto foi uma excelente oportunidade para consolidar os conceitos básicos de HTML e criar uma estrutura funcional para um site.
 
 Fique à vontade para explorar, utilizar e contribuir com este repositório. Qualquer sugestão ou dúvida, entre em contato!
 
-Autor: FernandaContato: [Seu E-mail ou LinkedIn]
+**Autor**: Fernanda
+**Contato**: https://www.linkedin.com/in/fernanda-alves-605a76242/
 
