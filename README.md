@@ -1,74 +1,72 @@
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
-- Formulários
-- Estruturação e formatação de texto
-- Mídias
-- Tabelas
+Desafio Proposto pela DIO
 
-Além de outros recursos falados nas aulas!
+Este projeto foi desenvolvido como parte de um desafio proposto pela Digital Innovation One, com o objetivo de aplicar os conceitos aprendidos durante o módulo de desenvolvimento web. O desafio consistia em criar um site simples para uma clínica médica seguindo uma estrutura predefinida, utilizando apenas HTML e organizando o conteúdo de forma clara e funcional.
 
-## Instruções
-1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-2. Este site deve conter o seguinte menu de navegação:
-    - Página Principal
-    - Sobre a clínica
-    - Horário de Atendimento
-    - Contato
-3. Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+Estrutura do Projeto
 
-Abaixo como cada página deve ser criada e estruturada.
+O site foi criado para uma clínica fictícia chamada Clínica Vida Saudável, especializada em diversas áreas médicas, como clínica geral, psicologia, pediatria e oftalmologia. O projeto é composto pelas seguintes páginas:
 
-### Estrutura das páginas
+Página Principal
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+Contém uma imagem de cabeçalho representando bem-estar.
 
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
+Uma breve descrição sobre a clínica, abordando missão, visão e especialidades.
 
-\* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
+Menu de navegação e rodapé com informações de contato.
 
-No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** de cada página ficará uma imagem, no **Footer** informações de contato, e o **Content** é o conteúdo de cada página.
-### Página Principal
-1. Deve ter uma imagem no **Header**.
-2. Em **Content** uma breve descrição sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+Sobre a Clínica
 
-### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+Apresenta a história da clínica e destaca a equipe de profissionais.
 
-### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+Inclui uma imagem de cabeçalho da equipe médica.
 
-|Serviços |Segunda a Sexta | Sábados | Feriados |
-|---|---|---|---|
-|Clínica geral | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Psicologia | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Pediatria | 08h - 19h  | 08h - 18h | - |
-|Oftalmologia | 08h - 19h  | 08h - 18h | - |
-|||||
+Horário de Atendimento
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+Mostra os horários de funcionamento para cada serviço em uma tabela bem estruturada.
 
+Contém uma imagem de cabeçalho relacionada aos serviços médicos.
 
-### Contato
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** deve ter:
-    - Os telefones de contato (celular e whatsapp)
-    - Endereço completo da clínica
-    - Um Iframe com o Google Maps apontando o endereço da clínica
-    - Um formulário de contato com:
-        - Nome (type="text")
-        - E-mail (type="email")
-        - Assunto (type="text")
-        - Mensagem (textarea)
-        - Botões de envias e limpar formulário
+Contato
 
-3. **Menu** e **Footer** padrões em todas as páginas.
+Inclui informações de contato (telefone, WhatsApp e endereço completo).
 
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
+Contém um iframe do Google Maps apontando para a localização da clínica.
 
-Bora pra cima!
+Um formulário para envio de mensagens, com campos para Nome, E-mail, Assunto e Mensagem, além de botões de "Enviar" e "Limpar".
+
+Tecnologias Utilizadas
+
+HTML: Para estruturação das páginas e organização do conteúdo.
+
+Sem CSS: A estilização não foi aplicada conforme as instruções do desafio, priorizando a compreensão da estrutura do HTML.
+
+Aprendizados
+
+Durante a execução deste desafio, foi possível:
+
+Consolidar o uso de tags HTML para organização do conteúdo.
+
+Praticar a criação de menus de navegação reutilizáveis.
+
+Estruturar páginas de forma semântica e organizada.
+
+Implementar tabelas, iframes e formulários no projeto.
+
+Como Executar o Projeto
+
+Clone o repositório:
+
+git clone https://github.com/FernandaAlvesSilva/trilha-html-modulo-2.git
+
+Abra o arquivo index.html em um navegador web.
+
+Conclusão
+
+Este desafio foi uma ótima oportunidade para colocar em prática os conceitos aprendidos e reforçar habilidades em desenvolvimento web básico. Caso queira ver o resultado ou contribuir para o projeto, fique à vontade para explorar o repositório!
+
+Autor: Fernanda
+Contato: (https://www.linkedin.com/in/fernanda-alves-605a76242/)
+
