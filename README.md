@@ -68,7 +68,7 @@ Durante o desafio, pratiquei:
    git clone https://github.com/FernandaAlvesSilva/trilha-html-modulo-2.git
 
 
-#🔒 Conclusão
+##🔒 Conclusão
 Este projeto foi uma excelente oportunidade para consolidar os conceitos básicos de HTML e criar uma estrutura funcional para um site.
 
 Fique à vontade para explorar, utilizar e contribuir com este repositório. Qualquer sugestão ou dúvida, entre em contato!
