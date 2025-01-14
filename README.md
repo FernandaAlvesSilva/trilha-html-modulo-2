@@ -76,5 +76,6 @@ Este projeto foi uma excelente oportunidade para consolidar os conceitos básico
 Fique à vontade para explorar, utilizar e contribuir com este repositório. Qualquer sugestão ou dúvida, entre em contato!
 
 **Autor**: Fernanda
+
 **Contato**: https://www.linkedin.com/in/fernanda-alves-605a76242/
 
