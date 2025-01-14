@@ -3,70 +3,99 @@
 
 Desafio Proposto pela DIO
 
-Este projeto foi desenvolvido como parte de um desafio proposto pela Digital Innovation One, com o objetivo de aplicar os conceitos aprendidos durante o módulo de desenvolvimento web. O desafio consistia em criar um site simples para uma clínica médica seguindo uma estrutura predefinida, utilizando apenas HTML e organizando o conteúdo de forma clara e funcional.
+Este repositório foi criado para documentar e compartilhar o desafio proposto pela Digital Innovation One. O objetivo foi desenvolver um site simples para uma clínica médica utilizando apenas HTML, aplicando os conceitos apresentados no módulo de desenvolvimento web.
 
-Estrutura do Projeto
+🌐 Projeto
 
-O site foi criado para uma clínica fictícia chamada Clínica Vida Saudável, especializada em diversas áreas médicas, como clínica geral, psicologia, pediatria e oftalmologia. O projeto é composto pelas seguintes páginas:
+A aplicação criada é um site da Clínica Vida Saudável, especializada em:
+
+Clínica Geral
+
+Psicologia
+
+Pediatria
+
+Oftalmologia
+
+O site foi dividido em quatro páginas principais:
+
+Estrutura das Páginas
 
 Página Principal
 
-Contém uma imagem de cabeçalho representando bem-estar.
+Header: Imagem representando saúde e bem-estar.
 
-Uma breve descrição sobre a clínica, abordando missão, visão e especialidades.
+Content: Breve descrição sobre a clínica com informações sobre missão, visão e especialidades.
 
-Menu de navegação e rodapé com informações de contato.
+Footer: Contato da clínica com telefone e endereço.
 
 Sobre a Clínica
 
-Apresenta a história da clínica e destaca a equipe de profissionais.
+Header: Imagem da equipe médica.
 
-Inclui uma imagem de cabeçalho da equipe médica.
+Content: Detalhes sobre a história e os profissionais da clínica.
 
 Horário de Atendimento
 
-Mostra os horários de funcionamento para cada serviço em uma tabela bem estruturada.
+Header: Imagem relacionada aos serviços médicos.
 
-Contém uma imagem de cabeçalho relacionada aos serviços médicos.
+Content: Tabela de horários e serviços, incluindo:
+
+Serviços        Segunda a Sexta    Sábados        Feriados
+Clínica geral   08h - 19h          08h - 14h      08h - 14h
+Psicologia      08h - 19h          08h - 14h      08h - 14h
+Pediatria       08h - 19h          08h - 18h      -
+Oftalmologia    08h - 19h          08h - 18h      -
 
 Contato
 
-Inclui informações de contato (telefone, WhatsApp e endereço completo).
+Header: Imagem representando comunicação.
 
-Contém um iframe do Google Maps apontando para a localização da clínica.
+Content:
 
-Um formulário para envio de mensagens, com campos para Nome, E-mail, Assunto e Mensagem, além de botões de "Enviar" e "Limpar".
+Telefones: (11) 99999-9999 e WhatsApp: (11) 98888-8888.
 
-Tecnologias Utilizadas
+Endereço: Rua Saúde, 123 - São Paulo, SP.
 
-HTML: Para estruturação das páginas e organização do conteúdo.
+Iframe do Google Maps com a localização.
 
-Sem CSS: A estilização não foi aplicada conforme as instruções do desafio, priorizando a compreensão da estrutura do HTML.
+Formulário com campos para Nome, E-mail, Assunto e Mensagem, além de botões de "Enviar" e "Limpar".
 
-Aprendizados
+🚀 Tecnologias Utilizadas
 
-Durante a execução deste desafio, foi possível:
+HTML: Para estruturação do site.
 
-Consolidar o uso de tags HTML para organização do conteúdo.
+Nota: O desafio solicitava não utilizar CSS, focando apenas no conteúdo semântico e na organização.
 
-Praticar a criação de menus de navegação reutilizáveis.
+🥇 Aprendizados
 
-Estruturar páginas de forma semântica e organizada.
+Durante o desafio, pratiquei:
 
-Implementar tabelas, iframes e formulários no projeto.
+Criação de páginas HTML bem estruturadas.
 
-Como Executar o Projeto
+Utilização de tabelas para organização de dados.
+
+Implementação de iframes para mapas.
+
+Criação de formulários simples com validação básica.
+
+🔧 Como Executar o Projeto
 
 Clone o repositório:
 
-git clone https://github.com/FernandaAlvesSilva/trilha-html-modulo-2.git
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+Navegue até o diretório do projeto:
+
+cd seu-repositorio
 
 Abra o arquivo index.html em um navegador web.
 
-Conclusão
+🔐 Conclusão
 
-Este desafio foi uma ótima oportunidade para colocar em prática os conceitos aprendidos e reforçar habilidades em desenvolvimento web básico. Caso queira ver o resultado ou contribuir para o projeto, fique à vontade para explorar o repositório!
+Este projeto foi uma excelente oportunidade para consolidar os conceitos básicos de HTML e criar uma estrutura funcional para um site.
 
-Autor: Fernanda
-Contato: (https://www.linkedin.com/in/fernanda-alves-605a76242/)
+Fique à vontade para explorar, utilizar e contribuir com este repositório. Qualquer sugestão ou dúvida, entre em contato!
+
+Autor: FernandaContato: [Seu E-mail ou LinkedIn]
 
